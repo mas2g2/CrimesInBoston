@@ -7,3 +7,4 @@ calculated.
 
 ## Number of Crimes committed per month in every district
 ![Number of Crimes committed per month in every district](https://github.com/mas2g2/CrimesInBoston/blob/master/Crimes%20In%20all%20districts.png)
+## Average Number of Crimes per district
